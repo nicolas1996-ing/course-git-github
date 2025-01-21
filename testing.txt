@@ -1,1 +1,4 @@
 test nano - aprendiendo git 
+
+# remove file from staging area
+git rm --cache testing.txt
