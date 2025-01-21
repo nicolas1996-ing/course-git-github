@@ -8,6 +8,9 @@ git rm --cache testing
 git checkout <branch_name>
 git switch <branch_name>
 
+# delete branch
+git branch -D <branch_name>
+
 # merge 
 ## from main branch 
 git merge <feature_branch>
