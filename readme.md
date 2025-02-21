@@ -60,6 +60,8 @@ git revert c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 - - git tag -d <tag_name> --> eliminar el tag o etiqueta ( no afecta nada más que eliminar el tag )
 - - - git tag -a v1.0 -m "primer tag"
 - - - git show v1.0
+- - - git tag -a <tag_name> <commit_id> -m "tag_message"
+
 
 - git checkout
 - - regresar a punto especifico del historial de commits
