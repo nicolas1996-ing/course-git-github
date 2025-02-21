@@ -51,3 +51,19 @@ regresar a un commit y ponerlo como último commit realizado
 commit c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 git revert c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 ```
+# git tag & git checkout
+- git tag
+- - etiquetas para commits, se aplica al último commit , versionamiento
+- - git tag -a <tag_name> -m "<message>" --> se asocia al último commit del árbol
+- - git tag --> listado de tags
+- - git show <tag_name> --> detalles del tag
+- - git tag -d <tag_name> --> eliminar el tag o etiqueta ( no afecta nada más que eliminar el tag )
+- - - git tag -a v1.0 -m "primer tag"
+- - - git show v1.0
+
+- git checkout
+- - regresar a punto especifico del historial de commits
+- - crea un espacio temporal, pero no guarda ningún cambio
+- - git checkout <commit_id>
+- - git checkout main --> regresa a main y los cambios del espacio temporal no modifican NADA
+
