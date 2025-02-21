@@ -3,6 +3,12 @@
 git init
 ```
 
+# commit 
+identificador del commit: lo que va después de commit <c72ed62b4e..>
+```bash
+commit c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
+```
+
 # remove file from staging area
 ```bash
 git rm --cache testing 
@@ -27,6 +33,17 @@ git merge <feature_branch>
 
 # reset 
 El comando te devuelve a un commit anterior, eliminando los cambios en el historial como si nunca hubieran ocurrido 
+- 
 ```bash
 git reset 
+```
+
+# revert 
+Crea un nuevo commit que revierte los cambios realizados por un commit en especifico 
+regresar a un commit y ponerlo como último commit realizado
+- Crea un nuevo commit de revert eliminando los cambios de la rama 
+- pero conservando dichos cambios en el historia de git 
+```bash
+commit c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
+git revert c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 ```
