@@ -10,9 +10,11 @@ commit c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 ```
 
 # remove file from staging area
+# git no excluirá del seguimiento al archivo
 ```bash
-git rm --cache testing
+git rm --cache <file-name>
 ```
+
 
 # switch between branch
 ```bash
