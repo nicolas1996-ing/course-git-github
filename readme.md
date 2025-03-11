@@ -69,3 +69,6 @@ git revert c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 - - git checkout <commit_id>
 - - git checkout main --> regresa a main y los cambios del espacio temporal no modifican NADA, ( antes de regresar agregar un git checkout .)
 
+
+- conflictos
+- - se dan cuando en dos ramas diferentes se modifica la misma linea de código, al intentar fusionar estas ramas aparece el error
