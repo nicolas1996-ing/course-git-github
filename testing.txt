@@ -1,6 +1,0 @@
-test nano - aprendiendo git 
-
-# remove file from staging area
-git rm --cache testing.txt
-
-cambios hechos desde rama diferente a main
