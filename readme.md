@@ -78,5 +78,11 @@ git revert c72ed62b4e3f2455427f4f4138bc29d681c1f6cd
 - - se dan cuando en dos ramas diferentes se modifica la misma linea de código, al intentar fusionar estas ramas aparece el error
 
 
-- - enviar cambios a la rama main del origen origin
+- - enviar cambios a la rama <main> del origen <origin>
 git push origin main
+- - trae los cambios de la rama main de origin, pero no fucionarlos inmediatamente
+git fetch origin
+- - comparar dos ramas después de hacer fetch
+git log main..origin/main
+- - fucionar los cambios una vez verificados
+git merge origin/main
