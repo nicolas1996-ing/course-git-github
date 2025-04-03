@@ -1,4 +1,4 @@
-# curso de git & github
+# Curso de git & github
 
 # create .git file
 ```bash
