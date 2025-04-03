@@ -1,3 +1,5 @@
+# curso de git & github
+
 # create .git file
 ```bash
 git init
