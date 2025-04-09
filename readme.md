@@ -86,3 +86,9 @@ git fetch origin
 git log main..origin/main
 - - fucionar los cambios una vez verificados
 git merge origin/main
+
+
+# crear plantillas predeterminads en github ( para reportar issues, por ejemplo)
+1. crear la carpeta .github
+1.1 crear carpeta ISSUE_TEMPLATE
+1.1.1 crear arhivo bug_report.md
