@@ -87,6 +87,17 @@ git log main..origin/main
 - - fucionar los cambios una vez verificados
 git merge origin/main
 
+# traer una rama remota a tu local
+git fetch origin --> descarga en tu local todas las ramas
+git branch -r --> ramas de tu repositorio remoto descargadas
+git checkout <rama-remota>
+
+ó
+
+git checkout --track origin/<rama-remota>
+
+-- cualquiera de los dos funciona
+
 
 # crear plantillas predeterminads en github ( para reportar issues, por ejemplo)
 1. crear la carpeta .github
