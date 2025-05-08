@@ -1,3 +1,5 @@
+// build a simple math function project
+
 // math operators
 console.table([
   { operator: "+", description: "add" },
