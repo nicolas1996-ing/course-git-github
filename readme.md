@@ -103,3 +103,7 @@ git checkout --track origin/<rama-remota>
 1. crear la carpeta .github
 1.1 crear carpeta ISSUE_TEMPLATE
 1.1.1 crear arhivo bug_report.md
+
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjose-nicolas-aristizabal-ramirez-ingeniero)
+
