@@ -108,3 +108,5 @@ git checkout --track origin/<rama-remota>
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjose-nicolas-aristizabal-ramirez-ingeniero)
 
 # gists
+- - github gists permite crear un pequeño fragmento de código que no está relacionado a ningún repositorio. Discutir de manera colaborativa sobre el fragmento de código.
+[crear gist](https://gist.github.com/)
