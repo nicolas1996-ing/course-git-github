@@ -110,3 +110,5 @@ git checkout --track origin/<rama-remota>
 # codespaces
 espacio donde se puede trabajar el proyecto sin necesidad de un vs en local
 ![Crear codespace](https://github.com/codespaces?repository_id=948210893)
+se pueden usar plantillas que usan una tecnologia en particular ( react, ruby, python, etc)
+recordar apagar/eliminar el codespace para que no consuma recursos
