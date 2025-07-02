@@ -107,5 +107,6 @@ git checkout --track origin/<rama-remota>
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjose-nicolas-aristizabal-ramirez-ingeniero)
 
-# codespaces 
-espacio donde se puede trabajar el proyecto sin necesidad de un vs en local 
+# codespaces
+espacio donde se puede trabajar el proyecto sin necesidad de un vs en local
+![Crear codespace](https://github.com/codespaces?repository_id=948210893)
