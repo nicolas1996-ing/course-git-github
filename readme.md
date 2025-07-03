@@ -113,4 +113,8 @@ espacio donde se puede trabajar el proyecto sin necesidad de un vs en local
 se pueden usar plantillas que usan una tecnologia en particular ( react, ruby, python, etc)
 recordar apagar/eliminar el codespace para que no consuma recursos
 
-# cambio desde github editor 
+# programacio2n colaborativa con live share en vscode
+
+# programacio2n colaborativa con live share en vscode
+
+# cambio desde github editor
