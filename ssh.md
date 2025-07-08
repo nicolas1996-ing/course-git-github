@@ -37,3 +37,21 @@ https://github.com/settings/keys
 ## comprobar conexión con github
 ssh -T git@github.com
 Hi nicolas1996-ing! You've successfully authenticated, but GitHub does not provide shell access.
+
+
+## Administración de repositorios con github tokens
+- llaves temporales
+- acceso temporal a un repo privado
+- acceso a repositorio privado con privilegios limitados
+- tokens detallados versión beta -- fine grained tokens --> tokens para acceder a un repo en especifico
+- - clonar repositorio con git clone
+- - ingresar username --> usuario de git
+- - password: token fine grained tokens
+- tokens clasicos
+
+
+## mitigación de brechas de seguridad en repositorios de github
+- el repo debe ser public
+- en github.com --> settings >> advanced security >> code scanning && secret scanning
+- code scanning >> codeQL analysis ... clic en setup ... clic en default
+- codeQL: Identify vulnerabilities and errors with CodeQL for eligible repositories.

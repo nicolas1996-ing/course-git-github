@@ -26,3 +26,7 @@ readline.question("Enter a number: ", (number1) => {
     readline.close();
   });
 });
+
+
+const app_key = "1234567890";
+console.log(app_key)
