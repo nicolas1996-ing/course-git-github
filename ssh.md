@@ -55,3 +55,5 @@ Hi nicolas1996-ing! You've successfully authenticated, but GitHub does not provi
 - en github.com --> settings >> advanced security >> code scanning && secret scanning
 - code scanning >> codeQL analysis ... clic en setup ... clic en default
 - codeQL: Identify vulnerabilities and errors with CodeQL for eligible repositories.
+- una vez hecho el push, gitHub por debajo empieza a hacer el sondeo de seguridad
+si se levanta alguna alerta se podrán analizar en la pestaña Security ( parte superior del repositorio de gitHub)

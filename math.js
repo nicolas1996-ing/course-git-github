@@ -28,5 +28,5 @@ readline.question("Enter a number: ", (number1) => {
 });
 
 
-const app_key = "1234567890";
-console.log(app_key)
+const api_key = "abcd****____1234567890";
+console.log(api_key)
