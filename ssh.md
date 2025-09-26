@@ -57,3 +57,8 @@ Hi nicolas1996-ing! You've successfully authenticated, but GitHub does not provi
 - codeQL: Identify vulnerabilities and errors with CodeQL for eligible repositories.
 - una vez hecho el push, gitHub por debajo empieza a hacer el sondeo de seguridad
 si se levanta alguna alerta se podrán analizar en la pestaña Security ( parte superior del repositorio de gitHub)
+
+
+## agregar un template para los pull request
+dentro de la carpeta .github agregar el archivo: pull_request_template.md
+diligencia ese markdown con la información asociada un pull request
